@@ -33,22 +33,22 @@ Como rodar a aplicação :arrow_forward:
 
 Clone o projeto no terminal:
 ```
-git clone https://github.com/SamuelSilvaB/trabalho_4.git
+git clone https://github.com/SamuelSilvaB/Trabalho_5.git
 ```
 Logo após clonar o projeto, entre na pasta clonada com o seguinte comando no terminal:
 ```
-cd trabalho_4
+cd Trabalho_5
 ```
 Em seguida, obtenha as bibliotecas com o seguinte comando:
 ```
-gcc -c trabalho_4.c
+gcc -c trabalho_5.c
 ```
 ## Compilação
 
 Cole o comando no terminal para gera um arquivo execultável:
 
 ```
-gcc ./trabalho_4.o ./main.c -o main
+gcc ./trabalho_5.o ./main.c -o main
 ```
 
 ## Execução
