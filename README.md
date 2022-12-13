@@ -62,5 +62,11 @@ Windows:
 ```
 ./main.exe
 ```
+<h1 align="center">
+Funcionamento  🔨
+</h1>
 
-Após isso, o programa irá printar os elementos que foram adicionados e organizados na heap. Em seguida, o programa irá remover os elementos e printar os removidos, e por último, o programa será encerrado.
+<h3>Após isso, o programa irá printar os elementos que foram adicionados e organizados na heap. Em seguida, o programa irá remover os elementos e printar os removidos, e por último, o programa será encerrado.</h3>
+
+## Linguagens utilizadas
+- `C`
