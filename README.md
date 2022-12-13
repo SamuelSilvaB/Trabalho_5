@@ -58,7 +58,9 @@ Linux:
 ```
 ./main
 ```
-
 Windows:
 ```
 ./main.exe
+```
+
+Após isso, o programa irá printar os elementos que foram adicionados e organizados na heap. Em seguida, o programa irá remover os elementos e printar os removidos, e por último, o programa será encerrado.
